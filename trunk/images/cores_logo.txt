@@ -1,0 +1,3 @@
+Azul    -> 031D50
+Azul claro -> 031D8C
+Amarelo -> FEB005 
