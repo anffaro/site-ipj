@@ -130,16 +130,14 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-01 - Marcelo Braga<br>
-04 - Casamento Almenaide e Nelson<br>
-06 - Vera Martins<br>
-08 - Casamento Zoé e Lídia<br>
-09 - Andrea Queiroz<br>
-11 - Kauê Amaral<br>
-18 - Vinícius Lirolla<BR>
-21 - Simei Matheus<br>
-26 - Zoé Ribeiro<br>
-27 - Daniel Costa
+01 - Casamento Benedito e Zenaide<br>
+05 - Isabela Lirolla<br>
+06 - Casamento João e Geralda<BR>
+07 - Michelli Camargo<br>
+11 - Ursulina Oliveira<BR>
+19 - Evanilde Mota<br>
+20 - Sara Silva<br>
+28 - Rosalina Pereira<br>
 </td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
