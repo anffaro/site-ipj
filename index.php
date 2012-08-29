@@ -33,13 +33,7 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>10/07</b> - Dia do Diácono</h5>
-        <h5><b>13/07</b> - Distribuição de agasalhos UMP - 23h</h5>
-        <h5><b>15/07</b> - Impacto Jabaquara</h5>
-        <h5><b>17/07 a 21/07</b> - EBF</h5>
-        <h5><b>22/07</b> - Dia do Adolescente Presbiteriano - 20h</h5>
-        <h5><b>28/07</b> - Palestra UPH - 20h</h5>
-        <h5><b>29/07</b> - Culto UMP </h5>
+        <h5><b>01/09</b> - Culto dos Talentos - UPA </h5>
 		
        <h5><a href="Programacoes/">Programações 2012</a></h5>
 
