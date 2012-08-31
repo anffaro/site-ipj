@@ -33,7 +33,7 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>01/09</b> - Culto dos Talentos - UPA </h5>
+        <h5><b>01/09</b> - Culto dos Talentos - UPA - 18:15hs</h5>
 		
        <h5><a href="Programacoes/">Programações 2012</a></h5>
 
