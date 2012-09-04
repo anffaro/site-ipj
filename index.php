@@ -33,8 +33,14 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>01/09</b> - Culto dos Talentos - UPA - 18:15hs</h5>
-		
+        <h5><b>09/09</b> - Impacto Jabaquara</h5>
+        <h5><b>15/09</b> - Confraternização UPH</h5>
+        <h5><b>16/09</b> - Dia da Escola Dominical</h5>
+        <h5><b>22/09</b> - Pré-Olimpíadas - 07:00hs</h5>
+        <h5><b>22/09</b> - Distribuição de Folhetos UPH/SAF - 17:00hs</h5>
+        <h5><b>22/09</b> - Culto Evangelístico - UMP - 19:00hs</h5>
+        <h5><b>28/09</b> - Reunião Departamental - SAF - 20:00hs</h5>
+        <h5><b>30/09</b> - Culto UMP</h5>                                                        		
        <h5><a href="Programacoes/">Programações 2012</a></h5>
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -124,14 +130,19 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-01 - Casamento Benedito e Zenaide<br>
-05 - Isabela Lirolla<br>
-06 - Casamento João e Geralda<BR>
-07 - Michelli Camargo<br>
-11 - Ursulina Oliveira<BR>
-19 - Evanilde Mota<br>
-20 - Sara Silva<br>
-28 - Rosalina Pereira<br>
+04 - Casamento Rev. André e Gislaine<br>
+07 - Maria Ângela Fraiha<br>
+08 - Marco Aurélio M. de Camargo<BR>
+19 - Laodicéia S. Faria Evaristo<BR>
+21 - Casamento Daniel e Andréa<BR>
+25 - Casamento Sebastião e Clarice<BR>
+25 - Casamento Fernando e Elisabeth<BR>
+26 - Rev. André Luis Zanini<BR>
+27 - Geralda Ferreira Costa Silva<BR>
+27 - Norma Setubal Bessa Matheus<BR>
+29 - Andrews Alves Barros<BR>
+30 - Luiz Carlos Spolador Silva<BR>
+30 - Casamento Sonia e Douglas<BR>
 </td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
