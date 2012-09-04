@@ -86,7 +86,7 @@ if (screen.width < 500)
 </tr>
         </table>-->
         
-        <!-- tabela do impacto Jabaquara
+         <!--tabela do impacto Jabaquara-->
 				<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
@@ -95,10 +95,9 @@ if (screen.width < 500)
         <tr>
         <td colspan="2" align="center"><img src="impacto_jabaquara.png" width="630" height="259" align="center" alt="Impacto Jabaquara"></td>
         </tr>
-        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 15/07. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
+        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 09/09. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
         </table>
-        -->
 
 
 <table width= "100%"border="0">
