@@ -19,55 +19,59 @@
     <div id="site_content">
         <!-- insert the page content here -->
         <table border="0" bgcolor="#FFFFFF" width="100%">
-        <tr><td height="33"><center><b><u>Atraímos Ou Afugentamos? </u></b></center></td></tr>
+        <tr><td height="33"><center><b><u>Caminhar ou Pular? </u></b></center></td></tr>
         <tr><td>
             <p align="justify">&nbsp;&nbsp;&nbsp;
             
-            "Se for possível, quanto estiver em vós, tende paz com todos
-os homens" (Romanos 12:18)<br><br>
+            "Finalmente, irmãos, vos rogamos e exortamos no Senhor
+Jesus, que assim como recebestes de nós, de que maneira
+convém andar e agradar a Deus, assim andai, para que possais
+progredir cada vez mais" (1 Tessalonicenses 4:1).
+<br><br>
             
-            Uma professora da Escola Bíblica perguntou a seus alunos:
-            "Crianças, vocês fazem suas orações antes de dormir?" Um
-            pequeno menino respondeu: "Minha mamãe faz as orações".
-            "Compreendo", disse a professora, "e o que a sua mamãe diz?"
-            Respondeu o menino: "Obrigado, Senhor, por ele estar na
-            cama!"
+            Ralph Erskine, eminente escocês do século dezessete,
+relacionou fé e obras de uma maneira esclarecedora, quando
+escreveu: "Fé verdadeira nunca está só. Ela caminha junto à
+obediência ao Evangelho - "assim como recebestes, andai".
+Aquele que separa fé de obediência caminha com um só pé,o
+que é impossível. Fé e obras, fé e santidade, são os dois
+pés pelo qual um homem caminha na presença de Cristo; quando
+o Espírito de Cristo promove um, promove o outro também. Se
+um homem desejar caminhar em um pé, não conseguirá caminhar,
+apenas pular, o que seria impossível, para ele, chegar muito
+longe. A obediência também não pode ser consistente sem fé.
+E, tal consistência, será a medida do avanço do Evangelho.
+
            </p>
             <p align="justify">&nbsp;&nbsp;&nbsp;
-           	Aproveitando a história de nosso menino, quero pensar sobre
-            nós, cristãos, adultos. Gostam, as pessoas, quando estamos
-            por perto ou preferem nos ver distantes? Gostam de ouvir
-            nossas palavras ou ficam mais satisfeitas quando estamos
-            calados? Confiam em nossas atitudes ou se mostram precavidas
-            sobre tudo o que fazemos?
+Como tem andado nossa vida espiritual e o nosso caminhar com
+Cristo? Temos andado firmemente, avançando dia após dia em
+nosso relacionamento com o Senhor ou temos apenas pulado em
+um só pé, o que não nos leva a lugar algum e ainda facilita
+a nossa queda?
             
-            Nós devemos ser bênçãos para todos. Devemos alegrar aos
-            nossos familiares e aos amigos que conosco convivem. Devemos
-            ser motivo de prazer e satisfação e não de antipatia e
-            repulsa. Devemos ser representantes fiéis do Senhor e não
-            motivo de decepção e vergonha.
+            Quando obedecemos os ensinos da Palavra de Deus, caminhamos
+com os dois pés no chão e as nossas experiências com o
+Senhor nos enchem de alegria e felicidade. Quando tiramos os
+pés do chão, mesmo que seja um só, não temos equilíbrio, não
+temos uma base sólida, não temos a certeza de que
+alcançaremos nossos objetivos. Andamos desajeitados, andamos
+inseguros, e perdemos a certeza de que estamos agradando ao
+nosso Deus.
             </p>            
             <p align="justify">&nbsp;&nbsp;&nbsp;
            
-            A mãe do menino de nossa ilustração contava os minutos para
-            ver o pequeno filho dormindo. Certamente ele dava muito
-            trabalho durante todo o dia. E nós, trabalhamos em prol dos
-            nossos parentes e amigos ou somente damos trabalho a todos
-            eles? Temos mostrado um coração puro e isso é constatado por
-            todos ou um coração enganoso que a todos desagrada? As
-            pessoas buscam estar junto a nós ou se escondem de nós
-            quando chegamos? Somos bênção ou somos maldição?</p>           
+Se dizemos que temos fé e não a colocamos em prática, de que
+adianta a nossa palavra? Se dizemos que estamos prontos a
+obedecer, mas, não cremos naquele a quem obedecemos, nossa
+obediência também não terá qualquer propósito.
+</p>           
             <p align="justify">&nbsp;&nbsp;&nbsp;
-            Deus nos escolheu e nos enviou a determinados lugares para
-            sermos luz do mundo e sal da terra. Ele espera que a nossa
-            vida brilhe e nosso testemunho transforme o ambiente.</p>    
-            <p align="justify">&nbsp;&nbsp;&nbsp;
-           O Senhor almeja que tenhamos paz com todos, que vivamos bem
-			com todos, que todos gostem de nós e que sejamos canais que
-    		levem todos à presença de Cristo.</p>                    
-            <p align="justify">&nbsp;&nbsp;&nbsp;
-          Você atrai as pessoas ou elas preferem se afastar?</p>            
-           
+      Eu obedeço porque creio plenamente em meu Senhor. Eu creio e
+a minha obediência é irrestrita. Não quero viver pulando
+daqui para ali. Eu quero caminhar com os dois pés firmes, na
+presença do meu Deus a quem creio e obedeço.
+     
           </td></tr>
           <tr><td><p align="right"><i>Paulo Barbosa<br>Um cego na inernet<br>Fonte: http://ministerio-pararefletir.blogspot.com.br/</i></p></td></tr>
         </table>

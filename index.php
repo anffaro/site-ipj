@@ -113,9 +113,11 @@ if (screen.width < 500)
 <table width=100% border="0">
 <tr>
   <td width=49% bgcolor="#031D50"><font color="#FFFFFF"><b><center>Pastoral</center></b></font></td><td width="14">&nbsp;&nbsp;</td><td width="271" bgcolor="#031D50"><center><b><font color="#FFFFFF">Agenda Semanal</font></b></center></td></tr>
-<tr><td height="117" align="justify"><Center><b>Atraímos Ou Afugentamos?</b></Center><br>Uma professora da Escola Bíblica perguntou a seus alunos:
-"Crianças, vocês fazem suas orações antes de dormir?" Um
-pequeno menino respondeu: "Minha mamãe faz as orações". <a href="Pastoral/">Continua</a>
+<tr><td height="117" align="justify"><Center><b>Caminhar ou Pular?</b></Center><br>Ralph Erskine, eminente escocês do século dezessete,
+relacionou fé e obras de uma maneira esclarecedora, quando
+escreveu: "Fé verdadeira nunca está só. Ela caminha junto à
+obediência ao Evangelho - "assim como recebestes, andai".
+ <a href="Pastoral/">Continua</a>
 <br><a href="Pastoral/lista_pastorais.php">Mais Pastorais</a>
 </td>
 <td width=2%>&nbsp;&nbsp;</td><td width=49%>Quarta - Estudo bíblico - 20h00<br>

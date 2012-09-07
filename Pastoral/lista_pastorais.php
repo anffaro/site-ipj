@@ -24,6 +24,7 @@
         <font size="4"><b>Pastorais</b></font><br><br>
         <a href="descubra_o_seu_dom.php">Descubra já o seu dom</a><br>
         <a href="regando_as_areias_do_deserto.php">Regendo as Areias do Deserto</a><br>
+        <a href="atraimos_ou_afugentamos.php">Atraímos ou Afugentamos?</a><br>
      
         </div>
     </div>
