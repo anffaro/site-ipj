@@ -19,58 +19,59 @@
     <div id="site_content">
         <!-- insert the page content here -->
         <table border="0" bgcolor="#FFFFFF" width="100%">
-        <tr><td height="33"><center><b><u>Caminhar ou Pular? </u></b></center></td></tr>
+        <tr><td height="33"><center><b><u>Orgulho... De que? </u></b></center></td></tr>
         <tr><td>
             <p align="justify">&nbsp;&nbsp;&nbsp;
             
-            "Finalmente, irmãos, vos rogamos e exortamos no Senhor
-Jesus, que assim como recebestes de nós, de que maneira
-convém andar e agradar a Deus, assim andai, para que possais
-progredir cada vez mais" (1 Tessalonicenses 4:1).
+            "Quem subirá ao monte do SENHOR, ou quem estará no seu lugar
+santo? Aquele que é limpo de mãos e puro de coração, que não
+entrega a sua alma à vaidade..." (Salmos 24":3, 4).
+
 <br><br>
             
-            Ralph Erskine, eminente escocês do século dezessete,
-relacionou fé e obras de uma maneira esclarecedora, quando
-escreveu: "Fé verdadeira nunca está só. Ela caminha junto à
-obediência ao Evangelho - "assim como recebestes, andai".
-Aquele que separa fé de obediência caminha com um só pé,o
-que é impossível. Fé e obras, fé e santidade, são os dois
-pés pelo qual um homem caminha na presença de Cristo; quando
-o Espírito de Cristo promove um, promove o outro também. Se
-um homem desejar caminhar em um pé, não conseguirá caminhar,
-apenas pular, o que seria impossível, para ele, chegar muito
-longe. A obediência também não pode ser consistente sem fé.
-E, tal consistência, será a medida do avanço do Evangelho.
+            Duas senhoras, em Xangai, estavam conversando sobre Hudson
+Taylor, desejando saber se, alguma vez, ele se sentiu
+tentado a ser orgulhoso. Uma das senhoras se dirigiu à
+esposa de Hudson Taylor e lhe fez a pergunta. A esposa do
+missionário disse que não sabia responder a tal pergunta.
+Mas, depois da conversa, ela foi até o marido e lhe falou
+sobre o assunto. Ele se mostrou surpreso e perguntou:
+"Orgulhoso, de que?" A esposa respondeu: "Pelas coisas que
+você fez". Imediatamente, então, ela recebeu a bela
+resposta: "Que eu saiba, nunca fiz nada". Taylor estava
+certo. Ele nunca fez qualquer coisa. Deus fez tudo nele e
+através dele.
 
            </p>
             <p align="justify">&nbsp;&nbsp;&nbsp;
-Como tem andado nossa vida espiritual e o nosso caminhar com
-Cristo? Temos andado firmemente, avançando dia após dia em
-nosso relacionamento com o Senhor ou temos apenas pulado em
-um só pé, o que não nos leva a lugar algum e ainda facilita
-a nossa queda?
+Que grande privilégio é saber que Deus faz grandes e
+maravilhosas coisas, tanto em nossas vidas como através
+delas. Quando isso acontece, nós somos muito abençoados e as
+pessoas que estão junto a nós também o são.
+
             
-            Quando obedecemos os ensinos da Palavra de Deus, caminhamos
-com os dois pés no chão e as nossas experiências com o
-Senhor nos enchem de alegria e felicidade. Quando tiramos os
-pés do chão, mesmo que seja um só, não temos equilíbrio, não
-temos uma base sólida, não temos a certeza de que
-alcançaremos nossos objetivos. Andamos desajeitados, andamos
-inseguros, e perdemos a certeza de que estamos agradando ao
-nosso Deus.
+            Quando deixamos Deus trabalhar em nossas vidas, andamos no
+caminho certo, fazemos o que é correto e somos muito mais
+felizes. A nossa vida transmite fé, o nosso rosto mostra um
+sorriso inigualável, nossas atitudes são dignas de serem
+imitadas, os ambientes são iluminados e o nome de Jesus é
+sempre glorificado e engrandecido.
+
             </p>            
             <p align="justify">&nbsp;&nbsp;&nbsp;
            
-Se dizemos que temos fé e não a colocamos em prática, de que
-adianta a nossa palavra? Se dizemos que estamos prontos a
-obedecer, mas, não cremos naquele a quem obedecemos, nossa
-obediência também não terá qualquer propósito.
+De que devemos nos orgulhar? Não de nós mesmos, nem do que
+fazemos, nem dos resultados de nosso trabalho. Nós nos
+orgulhamos pelo fato de termos sido escolhidos, de estarmos
+sendo usados por Deus, de ser um canal de regozijo para
+todos. Nada somos e, ao mesmo tempo, somos tudo. Somos
+filhos de Deus e herdeiros do Céu de glória. Essa é a grande
+razão de nosso contentamento.
 </p>           
             <p align="justify">&nbsp;&nbsp;&nbsp;
-      Eu obedeço porque creio plenamente em meu Senhor. Eu creio e
-a minha obediência é irrestrita. Não quero viver pulando
-daqui para ali. Eu quero caminhar com os dois pés firmes, na
-presença do meu Deus a quem creio e obedeço.
+A vaidade é o caminho mais rápido para o fracasso. A
+humildade nos leva muito mais longe... Afinal, ter orgulho
+de que?
      
           </td></tr>
           <tr><td><p align="right"><i>Paulo Barbosa<br>Um cego na inernet<br>Fonte: http://ministerio-pararefletir.blogspot.com.br/</i></p></td></tr>
