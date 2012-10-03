@@ -33,14 +33,13 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>09/09</b> - Impacto Jabaquara</h5>
-        <h5><b>15/09</b> - Confraternização UPH</h5>
-        <h5><b>16/09</b> - Dia da Escola Dominical</h5>
-        <h5><b>22/09</b> - Pré-Olimpíadas - 07:00hs</h5>
-        <h5><b>22/09</b> - Distribuição de Folhetos UPH/SAF - 17:00hs</h5>
-        <h5><b>22/09</b> - Culto Evangelístico - UMP - 19:00hs</h5>
-        <h5><b>28/09</b> - Reunião Departamental - SAF - 20:00hs</h5>
-        <h5><b>30/09</b> - Culto UMP</h5>                                                        		
+        <h5><b>14/10</b> - Impacto Jabaquara</h5>
+        <h5><b>21/10</b> - UPH - Culto de Aniversário</h5>
+        <h5><b>21/10</b> - Assembléia - Eleição de diáconos</h5>
+        <h5><b>26/10</b> - SAF - Reunião Departamental - 20h</h5>
+        <h5><b>27/10</b> - SAF - Encontro das Delegadas - IP Cidade Dutra - 14h</h5>
+        <h5><b>28/10</b> - Eleições Gerais - 17h</h5>
+        <h5><b>31/10</b> - Dia da Reforma Protestante</h5>                                                        		
        <h5><a href="Programacoes/">Programações 2012</a></h5>
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -114,10 +113,9 @@ if (screen.width < 500)
 <table width=100% border="0">
 <tr>
   <td width=49% bgcolor="#031D50"><font color="#FFFFFF"><b><center>Pastoral</center></b></font></td><td width="14">&nbsp;&nbsp;</td><td width="271" bgcolor="#031D50"><center><b><font color="#FFFFFF">Agenda Semanal</font></b></center></td></tr>
-<tr><td height="117" align="justify"><Center><b>Caminhar ou Pular?</b></Center><br>Ralph Erskine, eminente escocês do século dezessete,
-relacionou fé e obras de uma maneira esclarecedora, quando
-escreveu: "Fé verdadeira nunca está só. Ela caminha junto à
-obediência ao Evangelho - "assim como recebestes, andai".
+<tr><td height="117" align="justify"><Center><b>Orgulho...De que?</b></Center><br>Duas senhoras, em Xangai, estavam conversando sobre Hudson
+Taylor, desejando saber se, alguma vez, ele se sentiu
+tentado a ser orgulhoso.
  <a href="Pastoral/">Continua</a>
 <br><a href="Pastoral/lista_pastorais.php">Mais Pastorais</a>
 </td>
@@ -132,19 +130,15 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-04 - Casamento Rev. André e Gislaine<br>
-07 - Maria Ângela Fraiha<br>
-08 - Marco Aurélio M. de Camargo<BR>
-19 - Laodicéia S. Faria Evaristo<BR>
-21 - Casamento Daniel e Andréa<BR>
-25 - Casamento Sebastião e Clarice<BR>
-25 - Casamento Fernando e Elisabeth<BR>
-26 - Rev. André Luis Zanini<BR>
-27 - Geralda Ferreira Costa Silva<BR>
-27 - Norma Setubal Bessa Matheus<BR>
-29 - Andrews Alves Barros<BR>
-30 - Luiz Carlos Spolador Silva<BR>
-30 - Casamento Sonia e Douglas<BR>
+02 - Allan Ribeiro<br>
+08 - Jéssica Lima<BR>
+10 - Joyce Braga<BR>
+11 - Pedro E. Pereira<BR>
+13 - Paulo de Tasso Barros<br>
+14 - Jennifer Lima<BR>
+25 - Wanda Fraiha<BR>
+28 - Clarice Oliveira<br>
+31 - Ronildo Silva<BR>
 </td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
