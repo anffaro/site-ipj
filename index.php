@@ -33,7 +33,7 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>14/10</b> - Impacto Jabaquara</h5>
+        <h5><b>21/10</b> - Impacto Jabaquara</h5>
         <h5><b>21/10</b> - UPH - Culto de Aniversário</h5>
         <h5><b>21/10</b> - Assembléia - Eleição de diáconos</h5>
         <h5><b>26/10</b> - SAF - Reunião Departamental - 20h</h5>
@@ -86,7 +86,7 @@ if (screen.width < 500)
         </table>-->
         
          <!--tabela do impacto Jabaquara-->
-	<!--	
+		
 			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
@@ -95,10 +95,10 @@ if (screen.width < 500)
         <tr>
         <td colspan="2" align="center"><img src="impacto_jabaquara.png" width="630" height="259" align="center" alt="Impacto Jabaquara"></td>
         </tr>
-        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 09/09. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
+        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 21/10. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
         </table>
-	-->
+	
 		
 <table width= "100%"border="0">
   <tr>
