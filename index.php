@@ -33,7 +33,6 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>21/10</b> - Impacto Jabaquara</h5>
         <h5><b>21/10</b> - UPH - Culto de Aniversário</h5>
         <h5><b>21/10</b> - Assembléia - Eleição de diáconos</h5>
         <h5><b>26/10</b> - SAF - Reunião Departamental - 20h</h5>
@@ -70,23 +69,23 @@ if (screen.width < 500)
         <h2>Bem vindo à Igreja Presbiteriana do Jabaquara</h2>
 
 		<!--tabela dos assuntos mais difíceis da Bíblia -->
-		<!--<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+		<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
-        <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center>OS ASSUNTOS MAIS DIFÍCEIS DA BÍBLIA</center></b></font></td>
+        <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center>ESTUDO BÍBLICO</center></b></font></td>
         </tr>
         <tr>
         <td>
-          <img src="assuntos_dificeis_biblia.jpg" alt="Os textos mais difíceis da bíblia"></td>
-          <td>Nesta quarta-feira estudaremos um assunto interessante:<BR> <b>"É lícito o crente cremar alguém???"</b><br>
+          <img src="biblia_sagrada.jpg" alt="Os textos mais difíceis da bíblia"></td>
+          <td>Nesta quarta-feira estudaremos um assunto interessante:<BR> <b>"Sonhos!!!"</b><br>
           Compareça! Você não pode perder!.
           </td>
         </tr>
         <tr>          <td colspan="2"><center><b>Caso tenha algum tema que você gostaria de aprender, entregue por escrito ou envie por email para o Rev. André (pastor@ipjabaquara.com.br) para que possamos aprender juntos.</b></center></td>
 </tr>
-        </table>-->
+        </table>
         
-         <!--tabela do impacto Jabaquara-->
-		
+         <!--tabela do impacto Jabaquara
+		<!--
 			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
@@ -98,7 +97,7 @@ if (screen.width < 500)
         <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 21/10. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
         </table>
-	
+	-->
 		
 <table width= "100%"border="0">
   <tr>
