@@ -33,13 +33,13 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>21/10</b> - UPH - Culto de Aniversário</h5>
-        <h5><b>21/10</b> - Assembléia - Eleição de diáconos</h5>
-        <h5><b>26/10</b> - SAF - Reunião Departamental - 20h</h5>
-        <h5><b>27/10</b> - SAF - Encontro das Delegadas - IP Cidade Dutra - 14h</h5>
-        <h5><b>28/10</b> - Eleições Gerais - 17h</h5>
-        <h5><b>31/10</b> - Dia da Reforma Protestante</h5>                                                        		
-       <h5><a href="Programacoes/">Programações 2012</a></h5>
+        <h5><b>10/11</b> - Congresso SAF - IP Jardim Apurá - 14h</h5>
+        <h5><b>10/11</b> - Congresso UMP e UPA - IP Jabaquara - 14h</h5>
+        <h5><b>11/11</b> - Impacto Jabaquara</h5>
+        <h5><b>24/11</b> - UMP - Culto de encerramento </h5>
+        <h5><b>25/11</b> - SAF - Troca Pratos - Ação de Graças </h5>
+        <h5><b>30/11</b> - UPA - Acampadentro</h5>                                                        		
+        <!-- <h5><a href="Programacoes/">Programações 2012</a></h5> -->
 
         <h3><a href="Downloads/">Downloads</a></h3>      
         
@@ -129,15 +129,18 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-02 - Allan Ribeiro<br>
-08 - Jéssica Lima<BR>
-10 - Joyce Braga<BR>
-11 - Pedro E. Pereira<BR>
-13 - Paulo de Tasso Barros<br>
-14 - Jennifer Lima<BR>
-25 - Wanda Fraiha<BR>
-28 - Clarice Oliveira<br>
-31 - Ronildo Silva<BR>
+01 - Simei e Norma (Casamento)<br>
+11 - Edmar e Juliana (Casamento)<BR>
+11 - Marcos Paraíso<BR>
+12 - Francilene Reis<BR>
+15 - Fernando Trombini<br>
+17 - Abinoham Silva<BR>
+21 - Amanda Trombini<BR>
+22 - João Silva<br>
+22 - Cleonice Pereira<BR>
+26 - Marcelo Liborni<BR>
+26 - Luiza Spolador<BR>
+
 </td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
