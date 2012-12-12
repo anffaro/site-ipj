@@ -26,6 +26,7 @@
         <a href="regando_as_areias_do_deserto.php">Regendo as Areias do Deserto</a><br>
         <a href="atraimos_ou_afugentamos.php">Atraímos ou Afugentamos?</a><br>
         <a href="caminhar_ou_pular.php">Caminhar ou Pular?</a><br>
+	<a href="orgulho_de_que.php">Orgulho...De que?</a><br>
      
         </div>
     </div>
