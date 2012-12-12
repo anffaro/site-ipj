@@ -33,12 +33,12 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>10/11</b> - Congresso SAF - IP Jardim Apurá - 14h</h5>
-        <h5><b>10/11</b> - Congresso UMP e UPA - IP Jabaquara - 14h</h5>
-        <h5><b>11/11</b> - Impacto Jabaquara</h5>
-        <h5><b>24/11</b> - UMP - Culto de encerramento </h5>
-        <h5><b>25/11</b> - SAF - Troca Pratos - Ação de Graças </h5>
-        <h5><b>30/11</b> - UPA - Acampadentro</h5>                                                        		
+        <h5><b>09/12</b> - Impacto Jabaquara</h5>
+        <h5><b>11/12</b> - Dia da mulher do pastor</h5>
+        <h5><b>17/12</b> - Dia do Pastor</h5>
+        <h5><b>22/12</b> - Musical Deus Vindo a Nòs - 20h </h5>
+        <h5><b>31/12</b> - Culto de Virada de Ano - 21h </h5>
+        <h5><b>31/12</b> - Jantar de Confraternização</h5>                                                        		
         <!-- <h5><a href="Programacoes/">Programações 2012</a></h5> -->
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -76,7 +76,7 @@ if (screen.width < 500)
         <tr>
         <td>
           <img src="biblia_sagrada.jpg" alt="Os textos mais difíceis da bíblia"></td>
-          <td>Nesta quarta-feira estudaremos um assunto interessante:<BR> <b>"Sonhos!!!"</b><br>
+          <td>Estamos estuando sobre: <b>"Sonhos!!!"</b><br>
           Compareça! Você não pode perder!.
           </td>
         </tr>
@@ -94,7 +94,7 @@ if (screen.width < 500)
         <tr>
         <td colspan="2" align="center"><img src="impacto_jabaquara.png" width="630" height="259" align="center" alt="Impacto Jabaquara"></td>
         </tr>
-        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 21/10. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
+        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 09/12. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
         </table>
 	-->
@@ -112,9 +112,13 @@ if (screen.width < 500)
 <table width=100% border="0">
 <tr>
   <td width=49% bgcolor="#031D50"><font color="#FFFFFF"><b><center>Pastoral</center></b></font></td><td width="14">&nbsp;&nbsp;</td><td width="271" bgcolor="#031D50"><center><b><font color="#FFFFFF">Agenda Semanal</font></b></center></td></tr>
-<tr><td height="117" align="justify"><Center><b>Orgulho...De que?</b></Center><br>Duas senhoras, em Xangai, estavam conversando sobre Hudson
-Taylor, desejando saber se, alguma vez, ele se sentiu
-tentado a ser orgulhoso.
+<tr><td height="117" align="justify"><Center><b>Obrigado...Muito Obrigado</b></Center><br>Houve, certa vez, um carpinteiro bem treinado que nunca
+pediu salários; que nunca possuiu um lar que pudesse chamar
+de casa própria; um professor jovem e brilhante que nunca
+solicitou aumento de salário; um grande médico que curou
+doentes e aflitos sem nunca perguntar se tinham plano de
+saúde pública ou seguro de saúde particular; um bom vizinho
+que sempre procurou demonstrar seu amor e cortesia
  <a href="Pastoral/">Continua</a>
 <br><a href="Pastoral/lista_pastorais.php">Mais Pastorais</a>
 </td>
@@ -129,17 +133,20 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-01 - Simei e Norma (Casamento)<br>
-11 - Edmar e Juliana (Casamento)<BR>
-11 - Marcos Paraíso<BR>
-12 - Francilene Reis<BR>
-15 - Fernando Trombini<br>
-17 - Abinoham Silva<BR>
-21 - Amanda Trombini<BR>
-22 - João Silva<br>
-22 - Cleonice Pereira<BR>
-26 - Marcelo Liborni<BR>
-26 - Luiza Spolador<BR>
+03 - Valdir e Rosália (Casamento)<br>
+06 - Aurora Alfazina<BR>
+12 - Henrique Teves<BR>
+12 - Igor Ramos<BR>
+13 - Noemi Baptista<BR>
+14 - Marcelo e Joyce (Casamento)<br>
+14 - Abinoham e Maria Helena (Casamento)<BR>
+17 - Giovana Butie<BR>
+21 - Gabriela Santos<br>
+24 - Marina Liborni<BR>
+27 - Uagih e Aurora (Casamento)<BR>
+28 - Claudia Lirolla<BR>
+30 - Dolivete Barros<BR>
+28 - Maria dos Santos<BR>
 
 </td>
 <td>&nbsp;&nbsp;</td>
