@@ -88,9 +88,9 @@ if (screen.width < 500)
          <!--convite do musical-->
 		
 			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
-        <tr>
+<!--        <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
-        </tr>
+        </tr> -->
         
         <tr>
         <td colspan="2" align="center"><img src="convite_cantata.jpg" width="700" height="350" align="center" alt="Impacto Jabaquara"></td>
