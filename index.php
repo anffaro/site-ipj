@@ -69,7 +69,7 @@ if (screen.width < 500)
         <h2>Bem vindo à Igreja Presbiteriana do Jabaquara</h2>
 
 		<!--tabela dos assuntos mais difíceis da Bíblia -->
-		<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+	<!--	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center>ESTUDO BÍBLICO</center></b></font></td>
         </tr>
@@ -83,9 +83,22 @@ if (screen.width < 500)
         <tr>          <td colspan="2"><center><b>Caso tenha algum tema que você gostaria de aprender, entregue por escrito ou envie por email para o Rev. André (pastor@ipjabaquara.com.br) para que possamos aprender juntos.</b></center></td>
 </tr>
         </table>
+     -->
+
+         <!--convite do musical-->
+		
+			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+        <tr>
+        <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
+        </tr>
         
-         <!--tabela do impacto Jabaquara
-		<!--
+        <tr>
+        <td colspan="2" align="center"><img src="convite_cantata.jpg" width="700" height="350" align="center" alt="Impacto Jabaquara"></td>
+        </tr>
+        </table>
+   
+         <!--tabela do impacto Jabaquara -->
+	<!--	
 			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
@@ -96,8 +109,8 @@ if (screen.width < 500)
         </tr>
         <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 09/12. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
-        </table>
-	-->
+        </table>-->
+	
 		
 <table width= "100%"border="0">
   <tr>
