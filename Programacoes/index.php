@@ -27,41 +27,84 @@
 	        <tr>
 	          <td> Confira às nossas programações trimestrais durante o ano de 2012</td></tr>
     	    <tr><td>&nbsp;</td></tr>
-		    <tr><td bgcolor="#031D50" align="center"><font color="#FFFFFF"><center><b>Maio</b></center></font></td></tr> 
-            <tr><td>01 - Passeio da Família - UPH</td></tr>
-            <tr><td>05 - Culto no lar às 19h</td></tr>            
-            <tr><td>12 - Programação Dia das Mães - 14h</td></tr>
-            <tr><td>13 - Dia das Mães</td></tr>            
-            <tr><td>18 - UPA - Acampadentro e comemoração aniversariantes</td></tr>
-            <tr><td>19 - Culto no lar - 19h</td></tr>            
-            <tr><td>20 - Dia do Jovem Presbiteriano</td></tr>
-            <tr><td>26 - Reunião Executiva - IP Monte Sião - 9h</td></tr>            
-            <tr><td>26 - Culto no lar - 19h</td></tr>
-            <tr><td>27 - Almoço da Família - Classe Única</td></tr>            
+		    <tr><td bgcolor="#031D50" align="center"><center>
+		      <font color="#FFFFFF"><b>Fevereiro</b></font>
+		    </center></td></tr> 
+            <tr>
+              <td>02 - Culto de Abertura - UMP - 18:00h</td></tr>
+            <tr>
+              <td>03 - Dia do Homem Presbiteriano</td></tr>            
+            <tr>
+              <td>06 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>
+            <tr>
+              <td>07 - Anivers&aacute;rio - Igreja Presbiteriana do Jabaquara</td></tr>            
+            <tr>
+              <td>08 &agrave; 12 - Acampamento UMP</td></tr>
+            <tr>
+              <td>10 - Dia da Mulher Presbiteriana</td></tr>            
+            <tr>
+              <td>13 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>
+            <tr>
+              <td>17 - Homenagem &agrave;s mulheres - Escola Dominical</td></tr>            
+            <tr>
+              <td>20 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>
+            <tr>
+              <td>22 - Reuni&atilde;o Departamental - SAF - 19:30h</td></tr>            
+             <tr><td>23 - Projeto Renova - UMP</td></tr> 
+             <tr><td>24 - Almoço comemoração Aniv. IPJ / Culto Especial</td></tr>
+             <tr><td>27 - Reunião de Oração - SAF - 19:00h</td></tr>
             <tr><td>&nbsp;</td></tr>
 
-		    <tr><td bgcolor="#031D50" align="center"><font color="#FFFFFF"><center><b>Junho</b></center></font></td></tr> 
-            <tr><td><b>Estudo sobre Discipulado - Classe única todos os Domingos</b></td></tr>
-            <tr><td>01 - Reunião de Oração SAF às 20h (Igreja)</td></tr>            
-            <tr><td>02 - Distribuição de Folhetos UPH às 16h</td></tr>
-            <tr><td>02 - Estudo Bìblico UMP às 19h</td></tr>            
-            <tr><td>16 - Encontro SAF Jd. Apurá às 14h</td></tr>
-            <tr><td>16 - Encontro Romântico às 20h</td></tr>
-            <tr><td>17 - Plenária UMP às 17:30h</td></tr>
-            <tr><td>23 - Encontro UPA no Jd. Apurá às 18h</td></tr>            
-            <tr><td>29 - Reunião Departamental SAF às 20h</td></tr>            
-            <tr><td>30 - Culto UMP às 20h</td></tr>
+		    <tr><td bgcolor="#031D50" align="center"><center>
+		      <font color="#FFFFFF"><b>Mar&ccedil;o</b></font>
+		    </center></td></tr> 
+            <tr>
+              <td>02 - Campeonato V&iacute;deo Game - UPA</td></tr>
+            <tr><td>06 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>            
+            <tr>
+              <td>10 - Impacto Jabaquara</td></tr>
+            <tr>
+              <td>10 - Primeiro Culto Protestante no Brasil</td></tr>            
+            <tr>
+              <td>11 - Dia da Educa&ccedil;&atilde;o Crist&atilde;</td></tr>
+            <tr>
+              <td>13 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>
+            <tr>
+              <td>16 - Gincana B&iacute;blica Miqu&eacute;ias - SAF - 19:00h</td></tr>
+            <tr>
+              <td>20 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>            
+            <tr>
+              <td>22 - Reuni&atilde;o Departamental - SAF - 19:30h</td></tr>            
+            <tr>
+              <td>23 - Distribui&ccedil;&atilde;o de Folhetos - UPH / Pe&ccedil;a Teatral - UPA</td></tr>
+              <tr><td>27 - Reunião de Oração - SAF - 19:00h</td></tr>
+              <tr><td>27 - Dia da Casa Editora Presbiteriana </td></tr>
+              <tr><td>30 - Projeto Renova / Vigília - UMP</td></tr>
             <tr><td>&nbsp;</td></tr>
 
-		    <tr><td bgcolor="#031D50" align="center"><font color="#FFFFFF"><center><b>Julho</b></center></font></td></tr> 
-            <tr><td>07 a 09 - Acampamento UPA</td></tr>            
-            <tr><td>10 - Dia do Diácono</td></tr>
-            <tr><td>13 - Distribuição de agasalhos UMP às 23h</td></tr>            
-            <tr><td>15 - Impacto Jabaquara</td></tr>
-            <tr><td>17 a 21 - Prgoramação para as crianças</td></tr>            
-            <tr><td>22 - Dia do Adolescente Presbiteriano</td></tr>            
-            <tr><td>28 - Palestra UPH - O crente e a dupla cidadania às 20h</td></tr>
-            <tr><td>29 - Culto UMP</td></tr>
+		    <tr><td bgcolor="#031D50" align="center"><center>
+		      <font color="#FFFFFF"><b>Abril</b></font>
+		    </center></td></tr> 
+            <tr>
+              <td>03 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>            
+            <tr>
+              <td>06 - Musical P&aacute;scoa</td></tr>
+            <tr>
+              <td>07 - Caf&eacute; da Ressurrei&ccedil;&atilde;o </td></tr>            
+            <tr>
+              <td>10 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>
+            <tr>
+              <td>10 - Passeio Cultural - UPH</td></tr>            
+            <tr>
+              <td>17 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>            
+            <tr>
+              <td>20 - Bate Papo - UPA</td></tr>
+            <tr>
+              <td>24 - Reuni&atilde;o de Ora&ccedil;&atilde;o - SAF - 19:00h</td></tr>
+              <tr>
+                <td>26 - Reuni&atilde;o Departamental - SAF - 19:30h</td></tr>
+              <tr>
+                <td>27 - Passeio com as Crian&ccedil;as / Projeto Renova - UMP</td></tr>
             <tr><td>&nbsp;</td></tr>
             
 	    </table>
