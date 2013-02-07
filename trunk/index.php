@@ -33,12 +33,12 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>09/12</b> - Impacto Jabaquara</h5>
-        <h5><b>11/12</b> - Dia da mulher do pastor</h5>
-        <h5><b>17/12</b> - Dia do Pastor</h5>
-        <h5><b>22/12</b> - Musical Deus Vindo a Nòs - 20h </h5>
-        <h5><b>31/12</b> - Culto de Virada de Ano - 21h </h5>
-        <h5><b>31/12</b> - Jantar de Confraternização</h5>                                                        		
+        <h5><b>07/02</b> - Anivers&aacute;rio IPJ</h5>
+        <h5><b>08-12/02 - </b>Acampamento UMP</h5>
+        <h5><b>10/02</b> - Dia da Mulher Presbiteriana</h5>
+        <h5><b>13,20,27/02</b> - Reunião de Oração (SAF) </h5>
+        <h5><b>24/02</b> - Almoço comemoração Aniv. IPJ </h5>
+        <h5><b>24/02</b> - Culto Especial de Aniversário - 19:00h</h5>                                                        		
         <!-- <h5><a href="Programacoes/">Programações 2012</a></h5> -->
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -134,22 +134,18 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-03 - Valdir e Rosália (Casamento)<br>
-06 - Aurora Alfazina<BR>
-12 - Henrique Teves<BR>
-12 - Igor Ramos<BR>
-13 - Noemi Baptista<BR>
-14 - Marcelo e Joyce (Casamento)<br>
-14 - Abinoham e Maria Helena (Casamento)<BR>
-17 - Giovana Butie<BR>
-21 - Gabriela Santos<br>
-24 - Marina Liborni<BR>
-27 - Uagih e Aurora (Casamento)<BR>
-28 - Claudia Lirolla<BR>
-30 - Dolivete Barros<BR>
-28 - Maria dos Santos<BR>
-
-</td>
+01 - Paulo Cesar Alves C. de Macedo<br>
+03 - Gabriela Castro Silva<BR>
+04 - Melissa Alzene Rissato<BR> 
+05 - Elizabeth D. Oliveira Trombini
+<BR> 
+06 - Wanderson Reis Silva
+<BR> 
+11 - Hugo Barbosa de Queiroz
+<br>
+14 - Thiago Donizete Liborni<BR> 
+15 - Cl&aacute;udia e Marcelo (Casamento)
+<BR></td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
 São Paulo/SP - CEP: 04330-070<br>
