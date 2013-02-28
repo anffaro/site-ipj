@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Igreja Presbiteriana do Jabaquara</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="../../../style/style.css" title="style" />
+
+
+<!-- Start visuallightbox.com HEAD section -->
+  <link rel="stylesheet" href="engine/css/vlightbox1.css" type="text/css" />
+<link rel="stylesheet" href="engine/css/visuallightbox.css" type="text/css" media="screen" />
+<script src="engine/js/jquery.min.js" type="text/javascript"></script>
+		<script src="engine/js/visuallightbox.js" type="text/javascript"></script>
+<!-- End visuallightbox.com HEAD section -->
+
+</head>
+
+<body>
+  <div id="main">
+       <div>
+  <?php
+  	include($_SERVER['DOCUMENT_ROOT']."/pagina_header.php");
+  ?>
+    </div>
+    <div id="site_content">
+      <center><br>
+      <table>
+<tr>
+           <td><a href="..">1</a></td>         
+           <td><a href="../2/">2</a></td>  
+           <td><a href="../3/">3</a></td>           
+           <td><a href="../4/">4</a></td>
+           <td><a href="../5/">5</a></td>
+	       <td>6</td>
+</tr>
+</table>
+<div id="vlightbox1">
+<a class="vlightbox1" href="data/images1/img_4826_1024x683.jpg" title="IMG_4826_1024x683"><img src="data/thumbnails1/img_4826_1024x683.jpg" alt="IMG_4826_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4827_1024x683.jpg" title="IMG_4827_1024x683"><img src="data/thumbnails1/img_4827_1024x683.jpg" alt="IMG_4827_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4828_1024x683.jpg" title="IMG_4828_1024x683"><img src="data/thumbnails1/img_4828_1024x683.jpg" alt="IMG_4828_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4829_1024x683.jpg" title="IMG_4829_1024x683"><img src="data/thumbnails1/img_4829_1024x683.jpg" alt="IMG_4829_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4830_1024x683.jpg" title="IMG_4830_1024x683"><img src="data/thumbnails1/img_4830_1024x683.jpg" alt="IMG_4830_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4831_1024x683.jpg" title="IMG_4831_1024x683"><img src="data/thumbnails1/img_4831_1024x683.jpg" alt="IMG_4831_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4832_1024x683.jpg" title="IMG_4832_1024x683"><img src="data/thumbnails1/img_4832_1024x683.jpg" alt="IMG_4832_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4833_1024x683.jpg" title="IMG_4833_1024x683"><img src="data/thumbnails1/img_4833_1024x683.jpg" alt="IMG_4833_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4834_1024x683.jpg" title="IMG_4834_1024x683"><img src="data/thumbnails1/img_4834_1024x683.jpg" alt="IMG_4834_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4835_1024x683.jpg" title="IMG_4835_1024x683"><img src="data/thumbnails1/img_4835_1024x683.jpg" alt="IMG_4835_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4836_1024x683.jpg" title="IMG_4836_1024x683"><img src="data/thumbnails1/img_4836_1024x683.jpg" alt="IMG_4836_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4837_1024x683.jpg" title="IMG_4837_1024x683"><img src="data/thumbnails1/img_4837_1024x683.jpg" alt="IMG_4837_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4838_1024x683.jpg" title="IMG_4838_1024x683"><img src="data/thumbnails1/img_4838_1024x683.jpg" alt="IMG_4838_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4839_1024x683.jpg" title="IMG_4839_1024x683"><img src="data/thumbnails1/img_4839_1024x683.jpg" alt="IMG_4839_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4840_1024x683.jpg" title="IMG_4840_1024x683"><img src="data/thumbnails1/img_4840_1024x683.jpg" alt="IMG_4840_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4841_1024x683.jpg" title="IMG_4841_1024x683"><img src="data/thumbnails1/img_4841_1024x683.jpg" alt="IMG_4841_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4842_1024x683.jpg" title="IMG_4842_1024x683"><img src="data/thumbnails1/img_4842_1024x683.jpg" alt="IMG_4842_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4843_1024x683.jpg" title="IMG_4843_1024x683"><img src="data/thumbnails1/img_4843_1024x683.jpg" alt="IMG_4843_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4844_1024x683.jpg" title="IMG_4844_1024x683"><img src="data/thumbnails1/img_4844_1024x683.jpg" alt="IMG_4844_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4845_1024x683.jpg" title="IMG_4845_1024x683"><img src="data/thumbnails1/img_4845_1024x683.jpg" alt="IMG_4845_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4846_1024x683.jpg" title="IMG_4846_1024x683"><img src="data/thumbnails1/img_4846_1024x683.jpg" alt="IMG_4846_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4847_1024x683.jpg" title="IMG_4847_1024x683"><img src="data/thumbnails1/img_4847_1024x683.jpg" alt="IMG_4847_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4848_1024x683.jpg" title="IMG_4848_1024x683"><img src="data/thumbnails1/img_4848_1024x683.jpg" alt="IMG_4848_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4849_1024x683.jpg" title="IMG_4849_1024x683"><img src="data/thumbnails1/img_4849_1024x683.jpg" alt="IMG_4849_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4850_1024x683.jpg" title="IMG_4850_1024x683"><img src="data/thumbnails1/img_4850_1024x683.jpg" alt="IMG_4850_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4851_1024x683.jpg" title="IMG_4851_1024x683"><img src="data/thumbnails1/img_4851_1024x683.jpg" alt="IMG_4851_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4852_1024x683.jpg" title="IMG_4852_1024x683"><img src="data/thumbnails1/img_4852_1024x683.jpg" alt="IMG_4852_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4853_1024x683.jpg" title="IMG_4853_1024x683"><img src="data/thumbnails1/img_4853_1024x683.jpg" alt="IMG_4853_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4854_1024x683.jpg" title="IMG_4854_1024x683"><img src="data/thumbnails1/img_4854_1024x683.jpg" alt="IMG_4854_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4855_1024x683.jpg" title="IMG_4855_1024x683"><img src="data/thumbnails1/img_4855_1024x683.jpg" alt="IMG_4855_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4857_1024x683.jpg" title="IMG_4857_1024x683"><img src="data/thumbnails1/img_4857_1024x683.jpg" alt="IMG_4857_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4858_1024x683.jpg" title="IMG_4858_1024x683"><img src="data/thumbnails1/img_4858_1024x683.jpg" alt="IMG_4858_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4859_1024x683.jpg" title="IMG_4859_1024x683"><img src="data/thumbnails1/img_4859_1024x683.jpg" alt="IMG_4859_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4860_1024x683.jpg" title="IMG_4860_1024x683"><img src="data/thumbnails1/img_4860_1024x683.jpg" alt="IMG_4860_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4861_1024x683.jpg" title="IMG_4861_1024x683"><img src="data/thumbnails1/img_4861_1024x683.jpg" alt="IMG_4861_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4862_1024x683.jpg" title="IMG_4862_1024x683"><img src="data/thumbnails1/img_4862_1024x683.jpg" alt="IMG_4862_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4863_1024x683.jpg" title="IMG_4863_1024x683"><img src="data/thumbnails1/img_4863_1024x683.jpg" alt="IMG_4863_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4864_1024x683.jpg" title="IMG_4864_1024x683"><img src="data/thumbnails1/img_4864_1024x683.jpg" alt="IMG_4864_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4865_1024x683.jpg" title="IMG_4865_1024x683"><img src="data/thumbnails1/img_4865_1024x683.jpg" alt="IMG_4865_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4866_1024x683.jpg" title="IMG_4866_1024x683"><img src="data/thumbnails1/img_4866_1024x683.jpg" alt="IMG_4866_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4867_1024x683.jpg" title="IMG_4867_1024x683"><img src="data/thumbnails1/img_4867_1024x683.jpg" alt="IMG_4867_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4868_1024x683.jpg" title="IMG_4868_1024x683"><img src="data/thumbnails1/img_4868_1024x683.jpg" alt="IMG_4868_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4869_1024x683.jpg" title="IMG_4869_1024x683"><img src="data/thumbnails1/img_4869_1024x683.jpg" alt="IMG_4869_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4870_1024x683.jpg" title="IMG_4870_1024x683"><img src="data/thumbnails1/img_4870_1024x683.jpg" alt="IMG_4870_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4872_1024x575.jpg" title="IMG_4872_1024x575"><img src="data/thumbnails1/img_4872_1024x575.jpg" alt="IMG_4872_1024x575"/></a>
+<a class="vlightbox1" href="data/images1/img_4873_1024x575.jpg" title="IMG_4873_1024x575"><img src="data/thumbnails1/img_4873_1024x575.jpg" alt="IMG_4873_1024x575"/></a>
+<a class="vlightbox1" href="data/images1/img_4874_1024x683.jpg" title="IMG_4874_1024x683"><img src="data/thumbnails1/img_4874_1024x683.jpg" alt="IMG_4874_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4875_1024x683.jpg" title="IMG_4875_1024x683"><img src="data/thumbnails1/img_4875_1024x683.jpg" alt="IMG_4875_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4876_1024x683.jpg" title="IMG_4876_1024x683"><img src="data/thumbnails1/img_4876_1024x683.jpg" alt="IMG_4876_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4877_1024x683.jpg" title="IMG_4877_1024x683"><img src="data/thumbnails1/img_4877_1024x683.jpg" alt="IMG_4877_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4878_1024x683.jpg" title="IMG_4878_1024x683"><img src="data/thumbnails1/img_4878_1024x683.jpg" alt="IMG_4878_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4879_1024x683.jpg" title="IMG_4879_1024x683"><img src="data/thumbnails1/img_4879_1024x683.jpg" alt="IMG_4879_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4880_1024x683.jpg" title="IMG_4880_1024x683"><img src="data/thumbnails1/img_4880_1024x683.jpg" alt="IMG_4880_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4881_1024x683.jpg" title="IMG_4881_1024x683"><img src="data/thumbnails1/img_4881_1024x683.jpg" alt="IMG_4881_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4882_1024x683.jpg" title="IMG_4882_1024x683"><img src="data/thumbnails1/img_4882_1024x683.jpg" alt="IMG_4882_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4883_1024x683.jpg" title="IMG_4883_1024x683"><img src="data/thumbnails1/img_4883_1024x683.jpg" alt="IMG_4883_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4884_1024x683.jpg" title="IMG_4884_1024x683"><img src="data/thumbnails1/img_4884_1024x683.jpg" alt="IMG_4884_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4885_1024x683.jpg" title="IMG_4885_1024x683"><img src="data/thumbnails1/img_4885_1024x683.jpg" alt="IMG_4885_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4886_1024x683.jpg" title="IMG_4886_1024x683"><img src="data/thumbnails1/img_4886_1024x683.jpg" alt="IMG_4886_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4887_1024x683.jpg" title="IMG_4887_1024x683"><img src="data/thumbnails1/img_4887_1024x683.jpg" alt="IMG_4887_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4888_1024x683.jpg" title="IMG_4888_1024x683"><img src="data/thumbnails1/img_4888_1024x683.jpg" alt="IMG_4888_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4889_1024x683.jpg" title="IMG_4889_1024x683"><img src="data/thumbnails1/img_4889_1024x683.jpg" alt="IMG_4889_1024x683"/></a>
+<a class="vlightbox1" href="data/images1/img_4890_1024x683.jpg" title="IMG_4890_1024x683"><img src="data/thumbnails1/img_4890_1024x683.jpg" alt="IMG_4890_1024x683"/></a>
+<a class="vlb" style="display:none" href="http://visuallightbox.com">Website Photo Galleries by VisualLightBox.com v5.0</a>
+</div>
+<script src="engine/js/vlbdata1.js" type="text/javascript"></script><!-- End visuallightbox.com BODY section -->
+        <!-- insert the page content here -->
+</center>
+ </div>       
+    </div>
+    
+
+<!-- Start visuallightbox.com BODY section id=1 -->
+
+
+<div id="content_footer"></div>
+    <div id="footer">
+      Copyright &copy; Igreja Presbiteriana do Jabaquara    </div>
+  </div>
+</body>
+</html>
