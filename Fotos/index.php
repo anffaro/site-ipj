@@ -79,6 +79,14 @@
              <td><a href="Dia_Biblia/"><img src="Dia_Biblia/data/images1/dsc00404.jpg" width="320" height="240" alt="Dia da Bíblia"></a></td>
              <td><a href="Fim_Ano/"><img src="Fim_Ano/data/images1/foto6.jpg" width="320" height="240" alt="Final de Ano"></a></td>
           </tr>
+          
+           <tr>
+              <td width=49% bgcolor="#031D50"><font color="#FFFFFF"><b><center>Acampamento 2013</center></b></font></td>
+          </tr>
+          <tr>
+             <td><a href="Acampamento_2013/"><img src="Acampamento_2013/6/data/images1/img_4845_1024x683.jpg" width="320" height="240" alt="Acampamento 2013"></a></td>
+
+          </tr>
               
         </table>      
       </center>
