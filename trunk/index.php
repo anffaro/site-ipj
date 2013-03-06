@@ -33,12 +33,14 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>07/02</b> - Anivers&aacute;rio IPJ</h5>
-        <h5><b>08-12/02 - </b>Acampamento UMP</h5>
-        <h5><b>10/02</b> - Dia da Mulher Presbiteriana</h5>
-        <h5><b>13,20,27/02</b> - Reunião de Oração (SAF) </h5>
-        <h5><b>24/02</b> - Almoço comemoração Aniv. IPJ </h5>
-        <h5><b>24/02</b> - Culto Especial de Aniversário - 19:00h</h5>                                                        		
+        <h5><b>02/03</b> - Campeonato Vídeo Game (UPA)</h5>
+        <h5><b>10/03</b> - Impacto Jabaquara</h5>
+        <h5><b>10/03</b> - Primeiro culto protestante no Brasil</h5>
+        <h5><b>06,13,20,27/03</b> - Reunião de Oração (SAF) </h5>
+        <h5><b>16/03</b> - Gincana Bíblica - Daniel - 19:00h (SAF)</h5>
+        <h5><b>23/03</b> - Distribuição de Folhetos (UPH)/ Peça Teatral (UPA)</h5>        
+        <h5><b>27/03</b> - Dia da Casa Editora Presbiteriana</h5>
+        <h5><b>30/03</b> - Projeto Renova / Vigília (UMP)</h5>
         <!-- <h5><a href="Programacoes/">Programações 2012</a></h5> -->
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -86,18 +88,18 @@ if (screen.width < 500)
      -->
 
          <!--tabela do impacto Jabaquara -->
-	<!--	
+		
 			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
         </tr>
         
         <tr>
-        <td colspan="2" align="center"><img src="impacto_jabaquara.png" width="630" height="259" align="center" alt="Impacto Jabaquara"></td>
+        <td colspan="2" align="center"><center><img src="Fotos/impacto_jabaquara.jpg" width="630" height="259" align="center" alt="Impacto Jabaquara"></center></td>
         </tr>
-        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 09/12. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
+        <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 10/03. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
-        </table>-->
+        </table>
 	
 		
 <table width= "100%"border="0">
@@ -134,18 +136,17 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-01 - Paulo Cesar Alves C. de Macedo<br>
-03 - Gabriela Castro Silva<BR>
-04 - Melissa Alzene Rissato<BR> 
-05 - Elizabeth D. Oliveira Trombini
-<BR> 
-06 - Wanderson Reis Silva
-<BR> 
-11 - Hugo Barbosa de Queiroz
-<br>
-14 - Thiago Donizete Liborni<BR> 
-15 - Cl&aacute;udia e Marcelo (Casamento)
-<BR></td>
+04 - Lídia Calvina Rodrigues<br>
+09 - André Faria Ribeiro<BR>
+12 - Eliana Favria Evarista<BR> 
+13 - Wander Sabino do Amaral<BR> 
+15 - Edionete C. de O. Pereira<BR> 
+17 - Ana Helena Spolador Ribeiro<br>
+17 - Elizabeth Alves Ribeiro<BR> 
+19 - Elias Rodrigues da Silva<BR>
+24 - Jonathan D. S. de Oliveira<BR>
+29 - Ana Clara S. de Oliveira Ribeiro<BR>
+30 - Rita de Cássia Alves Teves<BR></td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
 São Paulo/SP - CEP: 04330-070<br>
