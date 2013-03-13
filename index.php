@@ -89,7 +89,7 @@ if (screen.width < 500)
 
          <!--tabela do impacto Jabaquara -->
 		
-			<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+		<!--	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
         </tr>
@@ -98,6 +98,20 @@ if (screen.width < 500)
         <td colspan="2" align="center"><center><img src="Fotos/impacto_jabaquara.jpg" width="630" height="259" align="center" alt="Impacto Jabaquara"></center></td>
         </tr>
         <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 10/03. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
+</tr>
+        </table>-->
+        
+       	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+        <tr>
+        <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
+        </tr>
+        
+        <tr>
+        <td height="361" colspan="2" align="center"><center><img src="Fotos/jardim_inimigo.jpg" width="480" height="346" align="center" alt="Impacto Jabaquara"></center></td>
+        </tr>
+        <tr><td colspan="2"><center>
+        <b><FONT size="+1">A peça "O Jardim do Inimigo", encenado pelo grupo Geração da Luz será apresentada no dia 23/03. Venha assistir. Convide seus amigos: J&aacute; imaginou o Pai da mentira falando grandes verdades???</b>
+        </center></td>
 </tr>
         </table>
 	
@@ -138,7 +152,7 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td>
 04 - Lídia Calvina Rodrigues<br>
 09 - André Faria Ribeiro<BR>
-12 - Eliana Favria Evarista<BR> 
+12 - Eliana Faria Evaristo<BR> 
 13 - Wander Sabino do Amaral<BR> 
 15 - Edionete C. de O. Pereira<BR> 
 17 - Ana Helena Spolador Ribeiro<br>
