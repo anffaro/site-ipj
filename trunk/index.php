@@ -33,14 +33,16 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>02/03</b> - Campeonato Vídeo Game (UPA)</h5>
-        <h5><b>10/03</b> - Impacto Jabaquara</h5>
-        <h5><b>10/03</b> - Primeiro culto protestante no Brasil</h5>
-        <h5><b>06,13,20,27/03</b> - Reunião de Oração (SAF) </h5>
-        <h5><b>16/03</b> - Gincana Bíblica - Daniel - 19:00h (SAF)</h5>
-        <h5><b>23/03</b> - Distribuição de Folhetos (UPH)/ Peça Teatral (UPA)</h5>        
-        <h5><b>27/03</b> - Dia da Casa Editora Presbiteriana</h5>
-        <h5><b>30/03</b> - Projeto Renova / Vigília (UMP)</h5>
+        <h5><b>01/05</b> - Passeio da Família - Saída as 08:00h</h5>
+        <h5><b>04/05</b> - Culto nos lares - 19h30</h5>
+        <h5><b>10/05</b> - Culto nos lares - 19h30</h5>
+        <h5><b>08,15,22/05</b> - Reunião de Oração (SAF) </h5>
+        <h5><b>11/05</b> - Programação Dia das Mães</h5>
+        <h5><b>12/05</b> - Impacto Jabaquara</h5>        
+        <h5><b>18/05</b> - Culto nos lares - 19h30</h5>
+        <h5><b>19/05</b> - Café da Manhã para Mocidade / Dia do Jovem Presbiteriano</h5>
+        <h5><b>25/05</b> - Culto nos lares - 19h30</h5>
+        <h5><b>31/05</b> - Reunião Departamental (SAF) - 19h30</h5>
         <!-- <h5><a href="Programacoes/">Programações 2012</a></h5> -->
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -101,20 +103,20 @@ if (screen.width < 500)
 </tr>
         </table>-->
         
-       	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+      <!-- 	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
         </tr>
         
         <tr>
-        <td height="361" colspan="2" align="center"><center><img src="Fotos/jardim_inimigo.jpg" width="480" height="346" align="center" alt="Impacto Jabaquara"></center></td>
+        <td height="361" colspan="2" align="center"><center><img src="Fotos/musical_pascoa.jpg" width="480" height="346" align="center" alt="Impacto Jabaquara"></center></td>
         </tr>
         <tr><td colspan="2"><center>
-        <b><FONT size="+1">A peça "O Jardim do Inimigo", encenado pelo grupo Geração da Luz será apresentada no dia 23/03. Venha assistir. Convide seus amigos: J&aacute; imaginou o Pai da mentira falando grandes verdades???</b>
+        <b><FONT size="+1"></b>
         </center></td>
 </tr>
         </table>
-	
+	-->
 		
 <table width= "100%"border="0">
   <tr>
@@ -150,17 +152,20 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-04 - Lídia Calvina Rodrigues<br>
-09 - André Faria Ribeiro<BR>
-12 - Eliana Faria Evaristo<BR> 
-13 - Wander Sabino do Amaral<BR> 
-15 - Edionete C. de O. Pereira<BR> 
-17 - Ana Helena Spolador Ribeiro<br>
-17 - Elizabeth Alves Ribeiro<BR> 
-19 - Elias Rodrigues da Silva<BR>
-24 - Jonathan D. S. de Oliveira<BR>
-29 - Ana Clara S. de Oliveira Ribeiro<BR>
-30 - Rita de Cássia Alves Teves<BR></td>
+03 - Michelli do Carmo Souza<br>
+12 - Casamento Ricardo e Cleonice<BR>
+07 - André Barbosa de Oliveira<BR> 
+09 - Emily Alves Barros<BR> 
+09 - Francisco Valdir P. da Silva<BR> 
+11 - Sebastião A. S. de Oliveira<br>
+12 - Casamento Noemi e Pedro Baptista<BR> 
+14 - Vitória E. Escribano Pereira<BR>
+15 - Maria José Ribeiro<BR>
+17 - Casamento Hélio e Marina<BR>
+19 - Casamento Edinei e Melissa<BR>
+22 - Melissa do L. D. de O. Ribeiro <br>
+25 - Daniel Raimundo dos Santos <br>
+28 - Zenaide Rissato dos Santos</td>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
 São Paulo/SP - CEP: 04330-070<br>
