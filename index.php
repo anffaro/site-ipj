@@ -33,16 +33,13 @@ if (screen.width < 500)
         <!-- insert your sidebar items here -->
         <h3>Últimas Notícias</h3>
         <h4><b><u>Programações</u></b></h4>
-        <h5><b>01/05</b> - Passeio da Família - Saída as 08:00h</h5>
-        <h5><b>04/05</b> - Culto nos lares - 19h30</h5>
-        <h5><b>10/05</b> - Culto nos lares - 19h30</h5>
-        <h5><b>08,15,22/05</b> - Reunião de Oração (SAF) </h5>
-        <h5><b>11/05</b> - Programação Dia das Mães</h5>
-        <h5><b>12/05</b> - Impacto Jabaquara</h5>        
-        <h5><b>18/05</b> - Culto nos lares - 19h30</h5>
-        <h5><b>19/05</b> - Café da Manhã para Mocidade / Dia do Jovem Presbiteriano</h5>
-        <h5><b>25/05</b> - Culto nos lares - 19h30</h5>
-        <h5><b>31/05</b> - Reunião Departamental (SAF) - 19h30</h5>
+        <h5><b>17/08</b> - Culto no Lar (Paulo/Dolivete) - às 20h00</h5>
+        <h5><b>24/08</b> - Reunião Executiva da SAF - 09h00</h5>
+        <h5><b>24/08</b> - Reapresentação Musical Páscoa - 19h00</h5>
+        <h5><b>25/08</b> - Reunião Plenária SAF/UPH - 17h00</h5>
+        <h5><b>28/08</b> - Reunião de Oração SAF - 19h00</h5>
+        <h5><b>30/08</b> - Reunião Departamental SAF- 19h30</h5>
+
         <!-- <h5><a href="Programacoes/">Programações 2012</a></h5> -->
 
         <h3><a href="Downloads/">Downloads</a></h3>      
@@ -97,26 +94,38 @@ if (screen.width < 500)
         </tr>
         
         <tr>
-        <td colspan="2" align="center"><center><img src="Fotos/impacto_jabaquara.jpg" width="630" height="259" align="center" alt="Impacto Jabaquara"></center></td>
+        <td colspan="2" align="center"><center><img src="Fotos/Talentos.jpg" width="548" height="398" align="center" alt="Impacto Jabaquara"></center></td>
         </tr>
         <tr><td colspan="2"><center><b><FONT size="+1">O IMPACTO JABAQUARA acontecerá no dia 10/03. Vamos convidar nossos amigos e parentes para este culto especial!!</b></center></td>
 </tr>
         </table>-->
         
-      <!-- 	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
         <tr>
         <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
         </tr>
         
         <tr>
-        <td height="361" colspan="2" align="center"><center><img src="Fotos/musical_pascoa.jpg" width="480" height="346" align="center" alt="Impacto Jabaquara"></center></td>
+        <td colspan="2" align="center"><center><img src="Fotos/Talentos.jpg" width="548" height="398" align="center" alt="Impacto Jabaquara"></center></td>
+        </tr>
+        <tr><td colspan="2"><center><b><FONT size="+1">Teremos mais um Culto dos Talentos organizado pela nossa UPA. Venha participar!!! Venha prestigiar!!! Contamos com sua presença</b></center></td>
+</tr>
+        </table>        
+        
+       	<table width= "100%"border="0" cellpadding="3" cellspacing="0">
+        <tr>
+        <td width=49% bgcolor="#031D50" colspan="2"><font color="#FFFFFF"><b><center></center></b></font></td>
+        </tr>
+        
+        <tr>
+        <td height="361" colspan="2" align="center"><center><img src="Fotos/musical_pascoa1.jpg" width="500" height="372" align="center" alt="Impacto Jabaquara"></center></td>
         </tr>
         <tr><td colspan="2"><center>
-        <b><FONT size="+1"></b>
+        <b>Teremos a reapresenta&ccedil;&atilde;o do Musical de P&aacute;scoa no dia <b>24/08</b>. Compare&ccedil;a!!! Contamos com sua presença<FONT size="+1"></b>
         </center></td>
 </tr>
         </table>
-	-->
+	
 		
 <table width= "100%"border="0">
   <tr>
@@ -129,6 +138,14 @@ if (screen.width < 500)
     </tr>
 </table>         
 <table width=100% border="0">
+
+<tr>
+  <td width=49% bgcolor="#031D50"><font color="#FFFFFF"><b><center>Acampamento I</center></b></font></td><td width="14">&nbsp;&nbsp;</td><td width="271" bgcolor="#031D50"><center><b><font color="#FFFFFF">Acampamento II</font></b></center></td></tr>
+<tr><td height="117" align="justify">Em <b>Fevereiro/2014</b> teremos mais um acampamento. Acontecerá nos dias <b>01,02,03 e 04/02</b>. O local é o <b>Sítio Village Verde</b> e o valor será de <b>R$ 300,00</b>. Caso haja dúvidas, procure alguém da comissão organizadora (Alessandro, Ana, André Ribeiro, Eliana, Graziele, Marcelo Ribeiro e Thiago Liborni).
+</td>
+<td width=2%>&nbsp;&nbsp;</td><td width=49%>Nos dias <b>28 e 29/09</b> teremos o acampamento da <b>Federação da UMP (FEPSEP - Federação Sudeste Paulistano)</b>. O valor será de <b>R$ 100,00</b> (alimentação e hospedagem estão incluídas). Para maiores informações, procure o <b>Dc. Thiago Liborni</b></td><tr>
+<tr><td height="15"></td><td></td><td></td><tr>
+
 <tr>
   <td width=49% bgcolor="#031D50"><font color="#FFFFFF"><b><center>Pastoral</center></b></font></td><td width="14">&nbsp;&nbsp;</td><td width="271" bgcolor="#031D50"><center><b><font color="#FFFFFF">Agenda Semanal</font></b></center></td></tr>
 <tr><td height="117" align="justify"><Center><b>Obrigado...Muito Obrigado</b></Center><br>Houve, certa vez, um carpinteiro bem treinado que nunca
@@ -152,20 +169,15 @@ Domingo - Culto de Louvor e Adoração - 19h00<br>
 <td></td><td bgcolor="#031D50"><font color="#FFFFFF"><b><center>Contate-nos</center></b></font></td></tr>
 <tr>
 <td>
-03 - Michelli do Carmo Souza<br>
-12 - Casamento Ricardo e Cleonice<BR>
-07 - André Barbosa de Oliveira<BR> 
-09 - Emily Alves Barros<BR> 
-09 - Francisco Valdir P. da Silva<BR> 
-11 - Sebastião A. S. de Oliveira<br>
-12 - Casamento Noemi e Pedro Baptista<BR> 
-14 - Vitória E. Escribano Pereira<BR>
-15 - Maria José Ribeiro<BR>
-17 - Casamento Hélio e Marina<BR>
-19 - Casamento Edinei e Melissa<BR>
-22 - Melissa do L. D. de O. Ribeiro <br>
-25 - Daniel Raimundo dos Santos <br>
-28 - Zenaide Rissato dos Santos</td>
+01 - Casamento Zenaide e Benedito<br>
+04 - Casamento Ana e André<BR>
+05 - Isabela Almeida Lirolla<BR> 
+06 - Casamento Geralda e João<BR> 
+07 - Michelli A. Viana M. Camargo<BR> 
+11 - Ursulina Conceição Oliveira<br>
+19 - Evanilde Carrígio da S. Mota<BR> 
+20 - Sara Ferreia da Silva<BR>
+28 - Rosália Alves Dantas Pereira<BR>
 <td>&nbsp;&nbsp;</td>
 <td>Rua dos Marapés, 86 - Parque Jabaquara<br>
 São Paulo/SP - CEP: 04330-070<br>
